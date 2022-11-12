@@ -1,1 +1,1 @@
-This project is created for practicing GIT tools
+This project is created for practicing GIT tools and so on
